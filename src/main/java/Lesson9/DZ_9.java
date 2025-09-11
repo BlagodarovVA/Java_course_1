@@ -17,6 +17,7 @@ class DZ_9_Test {
         DZ_9 obj7 = new DZ_9();
         DZ_9 obj8 = new DZ_9();
         obj7.info();
+        System.out.println(obj7);
 
     }
 

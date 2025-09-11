@@ -8,7 +8,7 @@ public class Car {
     String model;
     double volume;
 
-    Car(String color2, String engine2) {
+    public Car(String color2, String engine2) {
         count++;
         color = color2;
         engine = engine2;
