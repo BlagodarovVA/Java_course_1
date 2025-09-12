@@ -2,6 +2,11 @@ package Lesson9;
 
 public class Student {
 
+    public static int c = 5;
+    public int z = 7;
+    public static String coconut = "coconut";
+
+
 }
 
 class StudentTest {
