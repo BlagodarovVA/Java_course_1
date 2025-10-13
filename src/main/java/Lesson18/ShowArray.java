@@ -41,7 +41,7 @@ public class ShowArray {
 
     public static void main(String[] args) {
 
-        String array1[][] =  {{"Элем00", "Элем01"}, {"Элем10"}, {"Элем20", "Элем21", "Элем22"}, {"Элем30", "Элем31"}};
+        String[][] array1 =  {{"Элем00", "Элем01"}, {"Элем10"}, {"Элем20", "Элем21", "Элем22"}, {"Элем30", "Элем31"}};
         showArray(array1);
 
         showArray2(array1);
