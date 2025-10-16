@@ -8,7 +8,7 @@ public class DZ {
 
         String [][] inputArr = new String[][]{{"asass", "lllssss", "werwer"},{"owtew"},{"213421", "45463", "lllssss", "87697689"}};
 
-        // считаем элементы аргументов массивов
+        // считаем аргументы массива
         int length = 0;
         for (String[] i:inputArr) {
             length += i.length;
