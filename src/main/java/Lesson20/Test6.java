@@ -43,6 +43,12 @@ public class Test6 {
         List <StringBuilder> list3 = Arrays.asList(array3);
         System.out.println(list3);
 
+        array3[0].append("!!!");            // изменяются элементы у всех связанных записей
+        System.out.println(list3);
+
+        array3[0] = new StringBuilder("!!!");   // заменится элемент массива и связанных записей
+        System.out.println(list3);
+
 
     }
 }
