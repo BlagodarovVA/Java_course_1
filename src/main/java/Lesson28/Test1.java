@@ -1,10 +1,10 @@
-package Lesson27;
+package Lesson28;
 
 import java.io.File;
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 
-public class Test11 {
+public class Test1 {
 
     static int abc() {
         int a = 5;
