@@ -51,7 +51,6 @@ class StudentInfo {
         list.add(st3);
         list.add(st4);
         list.add(st5);
-
         StudentInfo si = new StudentInfo();
 
         for (Student s:list) {
