@@ -33,12 +33,12 @@ class TestEmployee{
 
     public static void main(String[] args) {
         ArrayList<Employee> list = new ArrayList<>();
-        Employee emp1 = new Employee("Elena", "Buh", 1300);
+        Employee emp1 = new Employee("Elena", "Buh", 1400);
         Employee emp2 = new Employee("Mech", "Mech", 1600);
         Employee emp3 = new Employee("Diana", "Med", 2500);
         Employee emp4 = new Employee("Valery", "IT", 6500);
         Employee emp5 = new Employee("Dmitry", "IT", 5100);
-        Employee emp6 = new Employee("Marina", "Buh", 3500);
+        Employee emp6 = new Employee("Ekaterina", "Buh", 450);
         Employee emp7 = new Employee("Petr", "Mech", 1700);
         list.add(emp1);
         list.add(emp2);
